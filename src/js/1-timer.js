@@ -22,84 +22,106 @@ function convertMs(ms) {
   return { days, hours, minutes, seconds };
 }
 
-window.onload = function () {
-  const options = {
-    enableTime: true,
-    time_24hr: true,
-    defaultDate: new Date(),
-    minuteIncrement: 1,
-    onClose(selectedDates) {
-      onFlatpickrClose(selectedDates);
-    },
-  };
+const dateTimeInput = document.querySelector('#datetime-picker');
+const startBtn = document.querySelector('[data-start]');
+const daysVal = document.querySelector('[data-days]');
+const hoursVal = document.querySelector('[data-hours]');
+const minutesVal = document.querySelector('[data-minutes]');
+const secondsVal = document.querySelector('[data-seconds]');
 
-  const dateTimeInput = document.querySelector('#datetime-picker');
-  const fp = flatpickr(dateTimeInput, options);
+let userSelectedDate = null;
+let timerId = null;
 
-  const startBtn = document.querySelector('[data-start]');
+startBtn.disabled = true;
 
-  let userSelectedDate = null;
+function onFlatpickrClose(selectedDates) {
+  userSelectedDate = selectedDates[0];
+  const currentDate = new Date();
 
-  if (!userSelectedDate) {
+  if (userSelectedDate <= currentDate) {
     startBtn.disabled = true;
+    iziToast.error({
+      title: 'Error',
+      message: 'Please choose a date in the future',
+      position: 'topCenter',
+    });
+  } else {
+    startBtn.disabled = false;
+  }
+}
+
+const options = {
+  enableTime: true,
+  time_24hr: true,
+  defaultDate: new Date(),
+  minuteIncrement: 1,
+  onClose(selectedDates) {
+    onFlatpickrClose(selectedDates);
+  },
+};
+
+const fp = flatpickr(dateTimeInput, options);
+
+const onStartBtnClick = () => {
+  if (!userSelectedDate) {
+    return;
   }
 
-  const onStartBtnClick = () => {
-    if (!userSelectedDate) {
+  const currentDate = new Date();
+
+  if (userSelectedDate <= currentDate) {
+    iziToast.error({
+      title: 'Error',
+      message: 'Please choose a date in the future',
+      position: 'topRight',
+    });
+    startBtn.disabled = true;
+    return;
+  }
+
+  startTimer(userSelectedDate);
+};
+
+startBtn.addEventListener('click', onStartBtnClick);
+
+function addLeadingZero(value) {
+  return value.toString().padStart(2, '0');
+}
+
+function updateTimerDisplay(days, hours, minutes, seconds) {
+  daysVal.textContent = addLeadingZero(days);
+  hoursVal.textContent = addLeadingZero(hours);
+  minutesVal.textContent = addLeadingZero(minutes);
+  secondsVal.textContent = addLeadingZero(seconds);
+}
+
+function startTimer(endTime) {
+  startBtn.disabled = true;
+  dateTimeInput.disabled = true;
+  fp.set('clickOpens', false);
+
+  runCountdown();
+
+  timerId = setInterval(runCountdown, 1000);
+
+  function runCountdown() {
+    const currentTime = new Date();
+    const timeLeft = endTime - currentTime;
+
+    if (timeLeft <= 0) {
+      clearInterval(timerId);
+      updateTimerDisplay(0, 0, 0, 0);
+
+      dateTimeInput.disabled = false;
+      fp.set('clickOpens', true);
+      fp.clear();
+
+      userSelectedDate = null;
+
       return;
     }
 
-    startTimer(userSelectedDate);
-  };
-
-  function onFlatpickrClose(selectedDates) {
-    userSelectedDate = selectedDates[0];
-    const currentDate = new Date();
-
-    if (userSelectedDate <= currentDate) {
-      startBtn.disabled = true;
-      iziToast.error({
-        title: 'Error',
-        message: 'Please choose a date in the future',
-        position: 'topCenter',
-      });
-    } else {
-      startBtn.disabled = false;
-    }
+    const { days, hours, minutes, seconds } = convertMs(timeLeft);
+    updateTimerDisplay(days, hours, minutes, seconds);
   }
-
-  startBtn.addEventListener('click', onStartBtnClick);
-
-  function addLeadingZero(value) {
-    return value.toString().padStart(2, '0');
-  }
-
-  function updateTimerDisplay(days, hours, minutes, seconds) {
-    document.querySelector('[data-days]').textContent = addLeadingZero(days);
-    document.querySelector('[data-hours]').textContent = addLeadingZero(hours);
-    document.querySelector('[data-minutes]').textContent = addLeadingZero(minutes);
-    document.querySelector('[data-seconds]').textContent = addLeadingZero(seconds);
-  }
-
-  function startTimer(endTime) {
-    startBtn.disabled = true;
-    dateTimeInput.disabled = true;
-
-    const timerId = setInterval(() => {
-      const currentTime = new Date();
-      const timeLeft = endTime - currentTime;
-
-      if (timeLeft <= 0) {
-        clearInterval(timerId);
-        updateTimerDisplay(0, 0, 0, 0);
-        dateTimeInput.disabled = false;
-        userSelectedDate = null;
-
-        return;
-      }
-
-      const { days, hours, minutes, seconds } = convertMs(timeLeft);
-      updateTimerDisplay(days, hours, minutes, seconds);
-    }, 1000);
-  }
-};
+}
