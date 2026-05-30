@@ -34,7 +34,7 @@
   text-align: left;
 }
 
-button {
+.form button {
   width: 100%;
   padding: 0.25rem;
   border-radius: 4px;
