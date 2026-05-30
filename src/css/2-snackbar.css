@@ -4,9 +4,8 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  max-width: 220px;
+  max-width: 360px;
   margin: 0 auto;
-  gap: 0.5rem;
 }
 
 .form > label {
@@ -14,7 +13,12 @@
   flex-direction: column;
   align-items: flex-start;
   width: 100%;
-  gap: 0.25rem;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 4%;
+  color: #2e2f42;
+  gap: 8px;
 }
 
 .form > label > input {
@@ -22,7 +26,18 @@
   width: 100%;
   padding: 12px;
   border-radius: 4px;
-  border: 1px solid #ccc;
+  color: #2e2f42;
+  border: 1px solid #808080;
+}
+
+.form > label > input:hover {
+  border-color: #000000;
+}
+
+.form > label > input:active,
+.form > label > input:focus {
+  border-color: #4e75ff;
+  outline: none;
 }
 
 .form > fieldset {
@@ -30,13 +45,55 @@
   display: flex;
   justify-content: space-between;
   width: 100%;
-  gap: 0.25rem;
   text-align: left;
+  border: 1px solid #808080;
+  padding: 21px 48px 8px;
+  border-radius: 4px;
+  margin-top: 16px;
+}
+
+.form > fieldset:hover {
+  border-color: #000000;
+}
+
+.form input[type='radio'] {
+  width: 20px;
+  height: 20px;
+  border: 1px solid #757575;
+  border-radius: 50%;
+  accent-color: #4e75ff;
+  vertical-align: text-top;
+  margin-right: 12px;
+  cursor: pointer;
+  outline: none;
+}
+
+.form > fieldset:has(input[type='radio']:checked) {
+  border-color: #000000;
+}
+
+.form > fieldset > label,
+.form > fieldset > legend {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0;
+  color: #2e2f42;
 }
 
 .form button {
   width: 100%;
-  padding: 0.25rem;
-  border-radius: 4px;
-  border: 1px solid #ccc;
+  padding: 8px;
+  border-radius: 8px;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 4%;
+  border: none;
+  background-color: #4e75ff;
+  color: #ffffff;
+  cursor: pointer;
+  margin-top: 24px;
+}
+
+.form button:hover {
+  background-color: #6c8cff;
 }

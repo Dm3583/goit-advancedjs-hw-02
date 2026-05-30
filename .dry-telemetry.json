@@ -150,5 +150,1503 @@
         36
       ]
     }
+  },
+  {
+    "type": "session",
+    "timestamp": "2026-05-30T00:20:21.259Z",
+    "data": {
+      "id": "1780100421259",
+      "project": "goit-advancedjs-hw-02",
+      "start": "2026-05-30T00:20:21.259Z",
+      "end": "2026-05-30T00:32:39.165Z"
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:26:04.715Z",
+    "data": {
+      "id": "1780100764715",
+      "timestamp": "2026-05-30T00:26:04.715Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\base.css",
+      "changedLines": [
+        2
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:26:08.741Z",
+    "data": {
+      "id": "1780100768741",
+      "timestamp": "2026-05-30T00:26:08.741Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\index.html",
+      "changedLines": [
+        7,
+        8
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:26:42.704Z",
+    "data": {
+      "id": "1780100802704",
+      "timestamp": "2026-05-30T00:26:42.704Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\base.css",
+      "changedLines": [
+        2
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:26:45.884Z",
+    "data": {
+      "id": "1780100805884",
+      "timestamp": "2026-05-30T00:26:45.884Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\base.css",
+      "changedLines": [
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:28:47.778Z",
+    "data": {
+      "id": "1780100927778",
+      "timestamp": "2026-05-30T00:28:47.778Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        6,
+        7,
+        8,
+        9
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:29:36.317Z",
+    "data": {
+      "id": "1780100976317",
+      "timestamp": "2026-05-30T00:29:36.317Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        8,
+        9
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:30:47.862Z",
+    "data": {
+      "id": "1780101047862",
+      "timestamp": "2026-05-30T00:30:47.862Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        11,
+        12,
+        13,
+        14
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:31:01.454Z",
+    "data": {
+      "id": "1780101061454",
+      "timestamp": "2026-05-30T00:31:01.454Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        14,
+        15
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:31:25.023Z",
+    "data": {
+      "id": "1780101085023",
+      "timestamp": "2026-05-30T00:31:25.023Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        16
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:31:51.942Z",
+    "data": {
+      "id": "1780101111942",
+      "timestamp": "2026-05-30T00:31:51.942Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        16
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:32:32.451Z",
+    "data": {
+      "id": "1780101152450",
+      "timestamp": "2026-05-30T00:32:32.450Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        16
+      ]
+    }
+  },
+  {
+    "type": "session",
+    "timestamp": "2026-05-30T00:32:39.165Z",
+    "data": {
+      "id": "1780100421259",
+      "project": "goit-advancedjs-hw-02",
+      "start": "2026-05-30T00:20:21.259Z",
+      "end": "2026-05-30T00:32:39.165Z"
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:33:37.583Z",
+    "data": {
+      "id": "1780101217583",
+      "timestamp": "2026-05-30T00:33:37.583Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\index.html",
+      "changedLines": [
+        8
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:33:41.301Z",
+    "data": {
+      "id": "1780101221300",
+      "timestamp": "2026-05-30T00:33:41.300Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\index.html",
+      "changedLines": [
+        8,
+        9,
+        10
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:34:06.294Z",
+    "data": {
+      "id": "1780101246294",
+      "timestamp": "2026-05-30T00:34:06.294Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        11,
+        12
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:34:42.128Z",
+    "data": {
+      "id": "1780101282128",
+      "timestamp": "2026-05-30T00:34:42.128Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        12
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:34:57.354Z",
+    "data": {
+      "id": "1780101297354",
+      "timestamp": "2026-05-30T00:34:57.354Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        12
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:35:41.401Z",
+    "data": {
+      "id": "1780101341401",
+      "timestamp": "2026-05-30T00:35:41.401Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        18,
+        19,
+        20
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:36:45.890Z",
+    "data": {
+      "id": "1780101405890",
+      "timestamp": "2026-05-30T00:36:45.890Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        18,
+        19,
+        20,
+        22
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:36:57.218Z",
+    "data": {
+      "id": "1780101417217",
+      "timestamp": "2026-05-30T00:36:57.217Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        22
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:37:52.243Z",
+    "data": {
+      "id": "1780101472243",
+      "timestamp": "2026-05-30T00:37:52.243Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        22,
+        23,
+        24,
+        26,
+        27
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:38:10.240Z",
+    "data": {
+      "id": "1780101490240",
+      "timestamp": "2026-05-30T00:38:10.240Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        27,
+        28,
+        29
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:38:34.248Z",
+    "data": {
+      "id": "1780101514248",
+      "timestamp": "2026-05-30T00:38:34.248Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        31
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:38:48.720Z",
+    "data": {
+      "id": "1780101528720",
+      "timestamp": "2026-05-30T00:38:48.720Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        32
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:39:21.391Z",
+    "data": {
+      "id": "1780101561391",
+      "timestamp": "2026-05-30T00:39:21.391Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        30
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:40:06.634Z",
+    "data": {
+      "id": "1780101606634",
+      "timestamp": "2026-05-30T00:40:06.634Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        38
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:40:42.607Z",
+    "data": {
+      "id": "1780101642607",
+      "timestamp": "2026-05-30T00:40:42.607Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        40,
+        41
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:41:08.420Z",
+    "data": {
+      "id": "1780101668420",
+      "timestamp": "2026-05-30T00:41:08.420Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        44,
+        45
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:41:13.853Z",
+    "data": {
+      "id": "1780101673853",
+      "timestamp": "2026-05-30T00:41:13.853Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        45
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:41:33.454Z",
+    "data": {
+      "id": "1780101693454",
+      "timestamp": "2026-05-30T00:41:33.454Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        47,
+        48,
+        49
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:42:00.108Z",
+    "data": {
+      "id": "1780101720108",
+      "timestamp": "2026-05-30T00:42:00.108Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        50,
+        51,
+        52,
+        53
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:42:17.831Z",
+    "data": {
+      "id": "1780101737831",
+      "timestamp": "2026-05-30T00:42:17.831Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        54
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:42:28.437Z",
+    "data": {
+      "id": "1780101748437",
+      "timestamp": "2026-05-30T00:42:28.437Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        49,
+        50
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:42:42.987Z",
+    "data": {
+      "id": "1780101762987",
+      "timestamp": "2026-05-30T00:42:42.987Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        50,
+        53,
+        54
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:42:47.512Z",
+    "data": {
+      "id": "1780101767512",
+      "timestamp": "2026-05-30T00:42:47.512Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        54
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:44:16.671Z",
+    "data": {
+      "id": "1780101856671",
+      "timestamp": "2026-05-30T00:44:16.671Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        8,
+        9
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:44:36.668Z",
+    "data": {
+      "id": "1780101876668",
+      "timestamp": "2026-05-30T00:44:36.668Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        37,
+        38
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:45:17.742Z",
+    "data": {
+      "id": "1780101917742",
+      "timestamp": "2026-05-30T00:45:17.742Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        9,
+        17,
+        18
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:45:43.888Z",
+    "data": {
+      "id": "1780101943888",
+      "timestamp": "2026-05-30T00:45:43.888Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        38
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:45:55.813Z",
+    "data": {
+      "id": "1780101955813",
+      "timestamp": "2026-05-30T00:45:55.813Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        38
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:47:08.895Z",
+    "data": {
+      "id": "1780102028895",
+      "timestamp": "2026-05-30T00:47:08.895Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        8,
+        9
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:47:47.697Z",
+    "data": {
+      "id": "1780102067697",
+      "timestamp": "2026-05-30T00:47:47.697Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        0,
+        51,
+        52,
+        58
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:48:06.429Z",
+    "data": {
+      "id": "1780102086429",
+      "timestamp": "2026-05-30T00:48:06.429Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        27,
+        28,
+        50,
+        51
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:48:27.339Z",
+    "data": {
+      "id": "1780102107339",
+      "timestamp": "2026-05-30T00:48:27.339Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:48:39.650Z",
+    "data": {
+      "id": "1780102119650",
+      "timestamp": "2026-05-30T00:48:39.650Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        4
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:48:49.596Z",
+    "data": {
+      "id": "1780102129596",
+      "timestamp": "2026-05-30T00:48:49.596Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        12
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:50:06.186Z",
+    "data": {
+      "id": "1780102206186",
+      "timestamp": "2026-05-30T00:50:06.186Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        59
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:50:08.147Z",
+    "data": {
+      "id": "1780102208147",
+      "timestamp": "2026-05-30T00:50:08.147Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        4,
+        6,
+        10,
+        21,
+        25,
+        35,
+        40,
+        42,
+        46,
+        51,
+        59,
+        77
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:50:14.873Z",
+    "data": {
+      "id": "1780102214873",
+      "timestamp": "2026-05-30T00:50:14.873Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        60
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:50:49.587Z",
+    "data": {
+      "id": "1780102249587",
+      "timestamp": "2026-05-30T00:50:49.587Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        66,
+        67
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:51:14.992Z",
+    "data": {
+      "id": "1780102274992",
+      "timestamp": "2026-05-30T00:51:14.992Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        69,
+        70,
+        71,
+        73
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:51:21.050Z",
+    "data": {
+      "id": "1780102281050",
+      "timestamp": "2026-05-30T00:51:21.050Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        70,
+        71
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:51:40.048Z",
+    "data": {
+      "id": "1780102300048",
+      "timestamp": "2026-05-30T00:51:40.048Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        77
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:51:43.145Z",
+    "data": {
+      "id": "1780102303145",
+      "timestamp": "2026-05-30T00:51:43.145Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        77
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:52:23.993Z",
+    "data": {
+      "id": "1780102343993",
+      "timestamp": "2026-05-30T00:52:23.993Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        77,
+        78,
+        79
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:54:54.144Z",
+    "data": {
+      "id": "1780102494144",
+      "timestamp": "2026-05-30T00:54:54.144Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        1,
+        31
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:59:52.333Z",
+    "data": {
+      "id": "1780102792333",
+      "timestamp": "2026-05-30T00:59:52.333Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        15,
+        16
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T00:59:56.079Z",
+    "data": {
+      "id": "1780102796079",
+      "timestamp": "2026-05-30T00:59:56.079Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        16,
+        45
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:00:14.633Z",
+    "data": {
+      "id": "1780102814633",
+      "timestamp": "2026-05-30T01:00:14.633Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        19,
+        20
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:00:31.684Z",
+    "data": {
+      "id": "1780102831684",
+      "timestamp": "2026-05-30T01:00:31.684Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        20
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:00:48.853Z",
+    "data": {
+      "id": "1780102848853",
+      "timestamp": "2026-05-30T01:00:48.853Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        6
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:02:43.132Z",
+    "data": {
+      "id": "1780102963132",
+      "timestamp": "2026-05-30T01:02:43.132Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        29
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:02:45.177Z",
+    "data": {
+      "id": "1780102965177",
+      "timestamp": "2026-05-30T01:02:45.177Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        29
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:03:51.888Z",
+    "data": {
+      "id": "1780103031888",
+      "timestamp": "2026-05-30T01:03:51.888Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        31,
+        32,
+        33,
+        35,
+        36,
+        37,
+        38,
+        39
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:04:32.404Z",
+    "data": {
+      "id": "1780103072404",
+      "timestamp": "2026-05-30T01:04:32.404Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        39,
+        40
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:04:52.165Z",
+    "data": {
+      "id": "1780103092165",
+      "timestamp": "2026-05-30T01:04:52.165Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\1-timer.css",
+      "changedLines": [
+        20,
+        21
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:06:21.970Z",
+    "data": {
+      "id": "1780103181970",
+      "timestamp": "2026-05-30T01:06:21.970Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        49,
+        50
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:06:45.347Z",
+    "data": {
+      "id": "1780103205347",
+      "timestamp": "2026-05-30T01:06:45.347Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        48,
+        50,
+        51
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:07:29.891Z",
+    "data": {
+      "id": "1780103249891",
+      "timestamp": "2026-05-30T01:07:29.891Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        50
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:08:23.651Z",
+    "data": {
+      "id": "1780103303651",
+      "timestamp": "2026-05-30T01:08:23.651Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        50
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:10:33.864Z",
+    "data": {
+      "id": "1780103433864",
+      "timestamp": "2026-05-30T01:10:33.864Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        50
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:10:53.924Z",
+    "data": {
+      "id": "1780103453924",
+      "timestamp": "2026-05-30T01:10:53.924Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        52,
+        53,
+        54
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:12:27.650Z",
+    "data": {
+      "id": "1780103547650",
+      "timestamp": "2026-05-30T01:12:27.650Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        56,
+        57,
+        58
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:13:03.618Z",
+    "data": {
+      "id": "1780103583618",
+      "timestamp": "2026-05-30T01:13:03.618Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        58,
+        59
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:13:19.636Z",
+    "data": {
+      "id": "1780103599635",
+      "timestamp": "2026-05-30T01:13:19.635Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        59,
+        61,
+        62
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:15:41.774Z",
+    "data": {
+      "id": "1780103741774",
+      "timestamp": "2026-05-30T01:15:41.774Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        56,
+        57,
+        58,
+        65
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:15:56.252Z",
+    "data": {
+      "id": "1780103756252",
+      "timestamp": "2026-05-30T01:15:56.252Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        58,
+        59,
+        61,
+        62
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:16:55.699Z",
+    "data": {
+      "id": "1780103815699",
+      "timestamp": "2026-05-30T01:16:55.699Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        61
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:18:22.591Z",
+    "data": {
+      "id": "1780103902591",
+      "timestamp": "2026-05-30T01:18:22.591Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        62
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:19:36.588Z",
+    "data": {
+      "id": "1780103976588",
+      "timestamp": "2026-05-30T01:19:36.588Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        66,
+        67
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:21:14.902Z",
+    "data": {
+      "id": "1780104074902",
+      "timestamp": "2026-05-30T01:21:14.902Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        62,
+        63
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:21:37.995Z",
+    "data": {
+      "id": "1780104097995",
+      "timestamp": "2026-05-30T01:21:37.995Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        63
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:22:35.809Z",
+    "data": {
+      "id": "1780104155809",
+      "timestamp": "2026-05-30T01:22:35.809Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        61,
+        62,
+        65,
+        66,
+        67
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:23:07.273Z",
+    "data": {
+      "id": "1780104187273",
+      "timestamp": "2026-05-30T01:23:07.273Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        68
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:24:24.020Z",
+    "data": {
+      "id": "1780104264019",
+      "timestamp": "2026-05-30T01:24:24.019Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        66
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:25:27.629Z",
+    "data": {
+      "id": "1780104327629",
+      "timestamp": "2026-05-30T01:25:27.629Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        64,
+        65
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:25:35.517Z",
+    "data": {
+      "id": "1780104335517",
+      "timestamp": "2026-05-30T01:25:35.517Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        60,
+        61
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:25:42.425Z",
+    "data": {
+      "id": "1780104342425",
+      "timestamp": "2026-05-30T01:25:42.425Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        61,
+        63
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:25:48.334Z",
+    "data": {
+      "id": "1780104348334",
+      "timestamp": "2026-05-30T01:25:48.334Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        58,
+        59
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:26:10.537Z",
+    "data": {
+      "id": "1780104370537",
+      "timestamp": "2026-05-30T01:26:10.537Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        59
+      ]
+    }
+  },
+  {
+    "type": "session",
+    "timestamp": "2026-05-30T01:27:02.020Z",
+    "data": {
+      "id": "1780104422020",
+      "project": "goit-advancedjs-hw-02",
+      "start": "2026-05-30T01:27:02.020Z",
+      "end": "2026-05-30T01:31:37.201Z"
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:27:16.776Z",
+    "data": {
+      "id": "1780104436776",
+      "timestamp": "2026-05-30T01:27:16.776Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        61
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:29:26.535Z",
+    "data": {
+      "id": "1780104566534",
+      "timestamp": "2026-05-30T01:29:26.534Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        68,
+        69,
+        70
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:29:38.457Z",
+    "data": {
+      "id": "1780104578457",
+      "timestamp": "2026-05-30T01:29:38.457Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        70
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:29:50.718Z",
+    "data": {
+      "id": "1780104590718",
+      "timestamp": "2026-05-30T01:29:50.718Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        70
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:30:56.743Z",
+    "data": {
+      "id": "1780104656743",
+      "timestamp": "2026-05-30T01:30:56.743Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        70
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:31:30.085Z",
+    "data": {
+      "id": "1780104690085",
+      "timestamp": "2026-05-30T01:31:30.085Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        71
+      ]
+    }
+  },
+  {
+    "type": "session",
+    "timestamp": "2026-05-30T01:31:37.201Z",
+    "data": {
+      "id": "1780104422020",
+      "project": "goit-advancedjs-hw-02",
+      "start": "2026-05-30T01:27:02.020Z",
+      "end": "2026-05-30T01:31:37.201Z"
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:32:32.229Z",
+    "data": {
+      "id": "1780104752228",
+      "timestamp": "2026-05-30T01:32:32.228Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        84
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:33:00.229Z",
+    "data": {
+      "id": "1780104780229",
+      "timestamp": "2026-05-30T01:33:00.229Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        85,
+        86
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:33:14.896Z",
+    "data": {
+      "id": "1780104794896",
+      "timestamp": "2026-05-30T01:33:14.896Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        86,
+        88,
+        89
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:33:38.457Z",
+    "data": {
+      "id": "1780104818457",
+      "timestamp": "2026-05-30T01:33:38.457Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        85,
+        89,
+        90,
+        91
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:34:05.625Z",
+    "data": {
+      "id": "1780104845625",
+      "timestamp": "2026-05-30T01:34:05.625Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        7,
+        8
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:34:29.984Z",
+    "data": {
+      "id": "1780104869984",
+      "timestamp": "2026-05-30T01:34:29.984Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        92,
+        93,
+        94,
+        96
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:34:40.663Z",
+    "data": {
+      "id": "1780104880663",
+      "timestamp": "2026-05-30T01:34:40.663Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        95
+      ]
+    }
+  },
+  {
+    "type": "fileSave",
+    "timestamp": "2026-05-30T01:35:08.677Z",
+    "data": {
+      "id": "1780104908677",
+      "timestamp": "2026-05-30T01:35:08.677Z",
+      "type": "fileSave",
+      "filePath": "e:\\Neoversity\\6JSAdvanced\\goit-advancedjs-hw-02\\src\\css\\2-snackbar.css",
+      "changedLines": [
+        50,
+        51,
+        91,
+        92,
+        95
+      ]
+    }
   }
 ]
