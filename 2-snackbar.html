@@ -1,14 +1,15 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Page 3</title>
-    <script type="module" crossorigin src="/goit-advancedjs-hw-02/assets/modulepreload-polyfill-B5Qt9EMX.js"></script>
-    <script type="module" crossorigin src="/goit-advancedjs-hw-02/assets/vendor-BbbuE1sJ.js"></script>
+    <title>Snackbar</title>
+    <script type="module" crossorigin src="/goit-advancedjs-hw-02/2-snackbar.js"></script>
+    <link rel="modulepreload" crossorigin href="/goit-advancedjs-hw-02/assets/modulepreload-polyfill-B5Qt9EMX.js">
+    <link rel="modulepreload" crossorigin href="/goit-advancedjs-hw-02/assets/vendor-BbbuE1sJ.js">
     <link rel="stylesheet" crossorigin href="/goit-advancedjs-hw-02/assets/vendor-CZjNVMTf.css">
-    <link rel="stylesheet" crossorigin href="/goit-advancedjs-hw-02/assets/styles-B7COmkMB.css">
+    <link rel="stylesheet" crossorigin href="/goit-advancedjs-hw-02/assets/styles-Bm8Td66x.css">
   </head>
   <body>
     <main>
@@ -17,26 +18,25 @@
         <h1 class="title">Snackbar</h1>
 
         <form class="form">
-  <label>
-    Delay (ms)
-    <input type="number" name="delay" required />
-  </label>
+          <label>
+            Delay (ms)
+            <input type="number" name="delay" required />
+          </label>
 
-  <fieldset>
-    <legend>State</legend>
-    <label>
-      <input type="radio" name="state" value="fulfilled" required />
-      Fulfilled
-    </label>
-    <label>
-      <input type="radio" name="state" value="rejected" required />
-      Rejected
-    </label>
-  </fieldset>
+          <fieldset>
+            <legend>State</legend>
+            <label>
+              <input type="radio" name="state" value="fulfilled" required />
+              Fulfilled
+            </label>
+            <label>
+              <input type="radio" name="state" value="rejected" required />
+              Rejected
+            </label>
+          </fieldset>
 
-  <button type="submit">Create notification</button>
-</form>
-
+          <button type="submit">Create notification</button>
+        </form>
       </div>
     </main>
 
